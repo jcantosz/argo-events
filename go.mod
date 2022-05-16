@@ -18,7 +18,7 @@ require (
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/argoproj/pkg v0.13.2
-	github.com/aws/aws-sdk-go v1.44.14
+	github.com/aws/aws-sdk-go v1.44.15
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/cloudevents/sdk-go/v2 v2.9.0
@@ -55,7 +55,7 @@ require (
 	github.com/nats-io/stan.go v0.10.2
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/client_golang v1.12.2
 	github.com/radovskyb/watcher v1.0.7
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/slack-go/slack v0.10.3
