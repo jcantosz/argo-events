@@ -18,7 +18,7 @@ require (
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/argoproj/pkg v0.13.2
-	github.com/aws/aws-sdk-go v1.44.20
+	github.com/aws/aws-sdk-go v1.44.21
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.4
 	github.com/cloudevents/sdk-go/v2 v2.10.0
@@ -67,7 +67,7 @@ require (
 	github.com/stripe/stripe-go v70.15.0+incompatible
 	github.com/tidwall/gjson v1.14.1
 	github.com/tidwall/sjson v1.2.4
-	github.com/xanzy/go-gitlab v0.66.0
+	github.com/xanzy/go-gitlab v0.68.0
 	github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.21.0
