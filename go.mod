@@ -18,7 +18,7 @@ require (
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/argoproj/pkg v0.13.6
-	github.com/aws/aws-sdk-go v1.44.102
+	github.com/aws/aws-sdk-go v1.44.103
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.1.0
 	github.com/cloudevents/sdk-go/v2 v2.11.0
@@ -82,7 +82,7 @@ require (
 	k8s.io/gengo v0.0.0-20211129171323-c02415ce4185
 	k8s.io/kube-openapi v0.0.0-20220803162953-67bda5d908f1
 	sigs.k8s.io/controller-runtime v0.13.0
-	sigs.k8s.io/controller-tools v0.9.2
+	sigs.k8s.io/controller-tools v0.10.0
 	sigs.k8s.io/yaml v1.3.0
 )
 
