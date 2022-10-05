@@ -12,13 +12,13 @@ require (
 	github.com/Azure/azure-event-hubs-go/v3 v3.3.18
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.2
-	github.com/Shopify/sarama v1.37.1
+	github.com/Shopify/sarama v1.37.2
 	github.com/ahmetb/gen-crd-api-reference-docs v0.3.0
 	github.com/antonmedv/expr v1.9.0
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.8.1
 	github.com/argoproj/pkg v0.13.6
-	github.com/aws/aws-sdk-go v1.44.110
+	github.com/aws/aws-sdk-go v1.44.111
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.1.0
 	github.com/cloudevents/sdk-go/v2 v2.12.0
